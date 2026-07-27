@@ -16,36 +16,42 @@ import { Link } from "react-router-dom";
 const FeaturedServices = () => {
   const imageArray = [
     {
+      image: feature1,
       navigatePath: "astro-birth-chart-reformation",
       HeadText: "Astro Birth Chart Reformation",
       paragraph:
         "Discover the mysteries of your life's path with a profound examination of your birth chart.",
     },
     {
+      image: feature2,
       navigatePath: "astro-vastu-consultancy",
       HeadText: "Astro Vastu Consultancy",
       paragraph:
         "Dance through life's energies—immerse yourself in the vibrant hues of happiness.",
     },
     {
+      image: feature3,
       navigatePath: "life-coach-and-success-guru",
       HeadText: "Life Coach and Success Guru",
       paragraph:
         "Elevate your essence with a coaching journey: sculpt your style, infuse substance, and claim the trio of Power, Peace, and Prosperity.",
     },
     {
+      image: feature4,
       navigatePath: "palmistry",
       HeadText: "Palmistry",
       paragraph:
         "Trace the echoes of your destiny in the lines of your hands; let the journey begin towards a future woven with blissful possibilities.",
     },
     {
+      image: feature5,
       navigatePath: "numerology",
       HeadText: "Numerology",
       paragraph:
         "When questions linger, Numerology brings answers, leading you from uncertainty to tranquillity.",
     },
     {
+      image: feature6,
       navigatePath: "face-reading",
       HeadText: "Face Reading",
       paragraph:
