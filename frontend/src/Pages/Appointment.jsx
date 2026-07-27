@@ -354,7 +354,7 @@ const Appointment = () => {
             impactful.
           </p>
           <div className="text-[13px] italic font-sans md:text-[16px] lg:text-[18px] text-gray-500 mb-3 mt-3">
-            - Astro Achariya Debdutta
+            - Numero Dr Sanjeev
           </div>
         </div>
         <Footer />
