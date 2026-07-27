@@ -31,7 +31,7 @@ const About = () => {
               destiny.
             </p>
             <br />
-            <Link to={"/about-page"}>
+            <Link to={"#"}>
               <button className="text-white bg-black hover:bg-transparent border border-black rounded-sm px-3 py-2 hover:border hover:border-black transition duration-700 ease-in-out hover:text-black">
                 Know More
               </button>
