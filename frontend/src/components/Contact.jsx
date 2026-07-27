@@ -83,7 +83,7 @@ const Contact = () => {
                 <div className="">
                   <h3 className="text-xl font-bold">Address : </h3>
                   <p>
-                    Flat No.713, Devika Tower 6, Nehru Place, New Delhi-110019,
+                    Plot No.315, Baramunda, Bhubaneswar, Odisha-751003,
                     India
                   </p>
                 </div>
