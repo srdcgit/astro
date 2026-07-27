@@ -114,7 +114,7 @@ const FeaturedVideoEmbed = () => {
         </div>
       </div>
 
-      <Link to="#" onClick={handleOpenInNewTabToGoToChannel}>
+      <Link to="#">
         <button className="text-white bg-black hover:bg-transparent border border-black rounded-[4px] px-3 py-1 hover:border hover:border-black transition duration-700 ease-in-out hover:text-black m-auto flex items-center mb-10">
           Visit Our Channel
         </button>
