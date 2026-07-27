@@ -144,7 +144,7 @@ const Footer = () => {
         <hr className=" w-[90%] border-s-violet-400 border-gray-300 my-10 mb-2 m-auto" />
       </div>
       <div className="m-auto text-center text-white pb-2">
-        © Copyright 2023, All Rights Reserved,❤️ by SRDC India Pvt Ltd
+        © Copyright 2026, All Rights Reserved,❤️ by SRDC India Pvt Ltd
       </div>
     </div>
   );
