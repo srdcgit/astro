@@ -41,7 +41,7 @@ const HeroSection = () => {
         <div className=" flex justify-center items-center w-full absolute m-auto h-screen">
           <div className="absolute text-center top-[60%] md:top-[40%] lg:top-[30%]  lg:left-32 md:left-14 p-4">
             <h1 className="text-5xl font-philosopher text-white font-semibold">
-              Astro Achariya Debdutta
+              Numero Dr Sanjeev
             </h1>
             <div className="mt-3 mb-3 ">
               <p className="text-white">
