@@ -116,7 +116,7 @@ const BottomNavbar = () => {
             )}
           </h3>
           <h3
-            onClick={() => navigate("/about-page")}
+            onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/about-page"
                 ? "font-bold text-white"
                 : "text-white"
@@ -128,7 +128,7 @@ const BottomNavbar = () => {
             )}
           </h3>
           {/* <h3
-            onClick={() => navigate("/awards")}
+            onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${
               location.pathname === "/awards"
                 ? "font-bold text-white"
@@ -142,7 +142,7 @@ const BottomNavbar = () => {
           </h3> */}
 
           <h3
-            onClick={() => navigate("/services")}
+            onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/services"
                 ? "font-bold text-white"
                 : "text-white"
@@ -154,7 +154,7 @@ const BottomNavbar = () => {
             )}
           </h3>
           {/* <h3
-            onClick={() => navigate("/events")}
+            onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${
               location.pathname === "/events"
                 ? "font-bold text-white"
@@ -167,7 +167,7 @@ const BottomNavbar = () => {
             )}
           </h3> */}
           <h3
-            onClick={() => navigate("/appointment")}
+            onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/appointment"
                 ? "font-bold text-white"
                 : "text-white"
