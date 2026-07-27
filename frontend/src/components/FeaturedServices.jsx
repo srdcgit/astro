@@ -111,7 +111,6 @@ const FeaturedServices = () => {
         <Achievement />
 
         {/* Featured Video */}
-        <FeaturedVideoEmbed embedID="LK6oYTQ3-6M" />
 
         {/* Client Stories */}
         <div className="m-auto w-[90%] md:w-[70%] lg:w-[50%] mb-8">
