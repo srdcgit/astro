@@ -224,31 +224,31 @@ const BottomNavbar = () => {
               Home
             </h3>
             <h3
-              onClick={() => navigate("/about-page")}
+              onClick={() => navigate("#")}
               className="cursor-pointer hover:bg-blue-500 mt-2 hover:text-white transition duration-300"
             >
               About
             </h3>
             {/* <h3
-              onClick={() => navigate("/awards")}
+              onClick={() => navigate("#")}
               className="cursor-pointer hover:bg-blue-500 mt-2 hover:text-white transition duration-300"
             >
               Awards
             </h3> */}
             <h3
-              onClick={() => navigate("/services")}
+              onClick={() => navigate("#")}
               className="cursor-pointer hover:bg-blue-500 mt-2 hover:text-white transition duration-300"
             >
               Services
             </h3>
             {/* <h3
-              onClick={() => navigate("/events")}
+              onClick={() => navigate("#")}
               className="cursor-pointer hover:bg-blue-500 mt-2 hover:text-white transition duration-300"
             >
               Events
             </h3> */}
             <h3
-              onClick={() => navigate("/appointment")}
+              onClick={() => navigate("#")}
               className="cursor-pointer hover:bg-blue-500 mt-2 hover:text-white transition duration-300"
             >
               Appointment
