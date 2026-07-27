@@ -41,33 +41,33 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-bold mb-3 ml-2 font-poppins">Services</h2>
           <ul className="ml-2 text-[16px]">
-            <Link to="/astro-birth-chart-reformation">
+            <Link to="#">
               <li className="">Astro Birth Chart Reformation</li>
             </Link>
 
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/astro-vastu-consultancy">
+            <Link to="#">
               <li className="">Astro Vastu Consultancy</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/life-coach-and-success-guru">
+            <Link to="#">
               <li className="">Life Coach and Success Guru</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/palmistry">
+            <Link to="#">
               <li className="">Palmistry</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/numerology">
+            <Link to="#">
               <li className="">Numerology</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/face-reading">
+            <Link to="#">
               <li className="">Face Reading</li>
             </Link>
           </ul>
@@ -77,17 +77,17 @@ const Footer = () => {
             Quick Links
           </h2>
           <ul className="ml-2 text-[16px]">
-            <Link to="/about-page">
+            <Link to="#">
               <li>About Me</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/services">
+            <Link to="#">
               <li>Services</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
 
-            <Link to="/appointment">
+            <Link to="#">
               <li>Appointment</li>
             </Link>
             <hr className="border border-s-violet-400 border-gray-300 my-2 m-auto" />
@@ -115,7 +115,7 @@ const Footer = () => {
             Get In Touch
           </h2>
           <div className="text-[16px] ml-2">
-            <p>Kolkata, India</p>
+            <p>Jharkhand, India</p>
             <p>Email: support@astro.com</p>
             <p>Phone: +91 XXXXX XXXXX</p>
             <p>Phone: +91 XXXXX XXXXX</p>
@@ -144,7 +144,7 @@ const Footer = () => {
         <hr className=" w-[90%] border-s-violet-400 border-gray-300 my-10 mb-2 m-auto" />
       </div>
       <div className="m-auto text-center text-white pb-2">
-        © Copyright 2023, All Rights Reserved,❤️ by Samsur
+        © Copyright 2023, All Rights Reserved,❤️ by SRDC India Pvt Ltd
       </div>
     </div>
   );
