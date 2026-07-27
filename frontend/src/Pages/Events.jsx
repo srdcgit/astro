@@ -1,5 +1,4 @@
 import React from "react";
-import banner3 from "../images/alldebdatta-images/banner3.jpg";
 import TopNavbar from "../components/TopNavbar";
 import BottomNavbar from "../components/BottomNavbar";
 import Footer from "../components/Footer";
