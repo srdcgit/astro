@@ -117,64 +117,64 @@ const BottomNavbar = () => {
           </h3>
           <h3
             onClick={() => navigate("#")}
-            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/about-page"
+            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "#"
                 ? "font-bold text-white"
                 : "text-white"
               }`}
           >
             About
-            {location.pathname === "/about-page" && (
+            {location.pathname === "#" && (
               <hr className="border-b-2 border-white mt-[1px]" />
             )}
           </h3>
           {/* <h3
             onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${
-              location.pathname === "/awards"
+              location.pathname === "#"
                 ? "font-bold text-white"
                 : "text-white"
             }`}
           >
             Awards
-            {location.pathname === "/awards" && (
+            {location.pathname === "#" && (
               <hr className="border-b-2 border-white mt-[1px]" />
             )}
           </h3> */}
 
           <h3
             onClick={() => navigate("#")}
-            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/services"
+            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "#"
                 ? "font-bold text-white"
                 : "text-white"
               }`}
           >
             Services
-            {location.pathname === "/services" && (
+            {location.pathname === "#" && (
               <hr className="border-b-2 border-white mt-[1px]" />
             )}
           </h3>
           {/* <h3
             onClick={() => navigate("#")}
             className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${
-              location.pathname === "/events"
+              location.pathname === "#"
                 ? "font-bold text-white"
                 : "text-white"
             }`}
           >
             Events
-            {location.pathname === "/events" && (
+            {location.pathname === "#" && (
               <hr className="border-b-2 border-white mt-[1px]" />
             )}
           </h3> */}
           <h3
             onClick={() => navigate("#")}
-            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "/appointment"
+            className={`cursor-pointer mt-2 mx-2 text-[16px] transition duration-300 ${location.pathname === "#"
                 ? "font-bold text-white"
                 : "text-white"
               }`}
           >
             Appointment
-            {location.pathname === "/appointment" && (
+            {location.pathname === "#" && (
               <hr className="border-b-2 border-white mt-[1px]" />
             )}
           </h3>
