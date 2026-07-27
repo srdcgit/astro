@@ -12,7 +12,7 @@ const About = () => {
           <div className=" w-full md:w-[50%] px-3 sm:mb-10 text-popp">
             <p>
               As I extend my warm greetings, I invite you to delve into the
-              tapestry of my life's journey. My name is Achariya Debdutta, a
+              tapestry of my life's journey. My name is Dr Sanjeev, a
               seasoned professional in the realms of astrology, vastu
               consultancy, numerology, success coaching, and authorship. With an
               enriching experience spanning 21 years, I've dedicated my life to
@@ -21,8 +21,7 @@ const About = () => {
             </p>
             <br />
             <p>
-              Born and raised in the culturally rich city of Kolkata, West
-              Bengal, my roots are deeply embedded in the spiritual essence of
+              Born and raised in the culturally rich city of Jamshedpur, Jharkhand, my roots are deeply embedded in the spiritual essence of
               India.
             </p>
             <br />
